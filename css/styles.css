@@ -1,0 +1,23 @@
+
+body {
+  background: linear-gradient(#22577A 45%, #38A3A5, #80ED99);
+
+}
+
+hr {
+  background: linear-gradient(#22577A 45%, #38A3A5, #80ED99);
+  border-top: dotted;
+  width: 4%;
+  border-top-color: rgba(147, 181, 198, 0.7);
+  border-top-width: 6px;
+  border-left: none;
+  border-right: none;
+}
+
+h1 {
+  color: #D4ECDD;
+}
+
+h3 {
+  color: #D4ECDD;
+}
